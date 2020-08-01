@@ -80,6 +80,6 @@ export default {
   build: {
   },
   generate: {
-    dir: 'day4',
+    dir: 'docs',
     }
 }
