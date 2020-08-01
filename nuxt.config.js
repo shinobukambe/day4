@@ -1,5 +1,5 @@
-//  const base_url = 'http://127.0.0.1:8000/'
-    const base_url = 'http://localhost:3000/'
+    const base_url = 'https://kambe.kikagaku.net/day4/'
+    // const base_url = 'http://localhost:3000/'
 
 export default {
   /*
@@ -80,6 +80,6 @@ export default {
   build: {
   },
   generate: {
-    dir: 'docs',
+    dir: 'day4',
     }
 }

@@ -9,7 +9,7 @@
     "export": "nuxt export",
     "serve": "nuxt serve",
     "generate": "nuxt generate",
-    "server": "http-server ./docs -o -p 8000"
+    "server": "http-server ./day4 -o -p 8000"
   },
   "dependencies": {
     "http-server": "^0.12.3",
