@@ -1,4 +1,4 @@
-    const base_url = 'https://kambe.kikagaku.net/day4/'
+    const base_url = 'https://kambe.kikagaku.net/'
     // const base_url = 'http://localhost:3000/'
 
 export default {
