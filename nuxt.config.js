@@ -25,25 +25,22 @@ export default {
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
-      { rel: 'stylesheet', type: 'text/css', href: `${base_url}css/style.css?388383` },
-      { rel: 'stylesheet', type: 'text/css', href: `${base_url}css/lib/swiper.css?388383` }     
+      { rel: 'stylesheet', type: 'text/css', href: `${base_url}css/style.css` },
+      { rel: 'stylesheet', type: 'text/css', href: `${base_url}css/lib/swiper.css` }     
     ],
     script: [
-      { src: `${base_url}js/lib/jquery-3.4.1.js?388383` },
-      { src: `${base_url}js/lib/countTo.js?388383` },
-      { src: `${base_url}js/lib/inview.js?388383` },
-      { src: `${base_url}js/lib/ofi.js?388383` },
-      { src: `${base_url}js/lib/pf.intrinsic.js?388383` },
-      { src: `${base_url}js/lib/picturefill.js?388383` },
-      { src: `${base_url}js/lib/swiper.js?388383` },
-      { src: `${base_url}js/common.js?388383` },
-      { src: `${base_url}js/front.js?388383` },
-      { src: `${base_url}js/loading.js?388383` },
-      { src: `${base_url}js/member.js?388383` }
+      { src: `${base_url}js/lib/jquery-3.4.1.js` },
+      { src: `${base_url}js/lib/countTo.js` },
+      { src: `${base_url}js/lib/inview.js` },
+      { src: `${base_url}js/lib/ofi.js` },
+      { src: `${base_url}js/lib/pf.intrinsic.js` },
+      { src: `${base_url}js/lib/picturefill.js` },
+      { src: `${base_url}js/lib/swiper.js` },
+      { src: `${base_url}js/common.js` },
+      { src: `${base_url}js/front.js` },
+      { src: `${base_url}js/loading.js` },
+      { src: `${base_url}js/member.js` }
     ]
-  },
-  env: {
-    base_url: base_url
   },
   /*z
   ** Global CSS
